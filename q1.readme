@@ -1,0 +1,1 @@
+In question 1 we were not able to deploy the streamlit app because the dataset was allmost 35 mb and github has a max limit of 25mb. So we can only show through the localhost during the viva.
